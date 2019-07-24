@@ -1,5 +1,3 @@
-# shihedelong.github.io
-Hedelong Shi's Portfolio 😈😈 https://shihedelong.github.io
 # Portfolio
 
 **[shihedelong.gihub.io](https://shihedelong.github.io)**
