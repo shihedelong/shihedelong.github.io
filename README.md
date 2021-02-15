@@ -5,7 +5,7 @@
 Feel free to use my template but please add credits attribution in the footnote.
 
 `
-<a> template by </a> <a href="https://shihedelong.github.io/">shihedelonog</a>
+<a> template by </a> <a href="https://shihedelong.github.io/">shihedelong</a>
 `
 
 
